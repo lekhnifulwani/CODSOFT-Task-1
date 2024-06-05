@@ -5,3 +5,5 @@
   <img  align="middle"src="Task-1/About secttion  preview.png" width="85%"/> </h2></li>
   <img  align="middle"src="Task-1/service section preview.png" width="85%"/> </h2></li>
    <img  align="middle"src="Task-1/rooms section preview.png" width="85%"/> </h2></li>
+    <img  align="middle"src="Task-1/footer preview.png" width="85%"/> </h2></li>
+
